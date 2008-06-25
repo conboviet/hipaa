@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+
+= Installation summary = 
+
+Add your content here.
+
+
+= Details =
+  * install xsb and add the path in prolog.sh
+  * Create a r+w all log.txt in the folder log.
