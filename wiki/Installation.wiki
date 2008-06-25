@@ -1,4 +1,4 @@
 = Details =
-  * Check out all the code from code.google
-  * install xsb. Move the XSB folder inside www.
-  * Create a r+w all log.txt in the folder log.
+  * Make dir HIPAA. Check out all the code from code.google into this folder
+  * install xsb. Move the XSB folder inside HIPAA.
+  * Create a log.txt with permissions r+w all in the folder log.
