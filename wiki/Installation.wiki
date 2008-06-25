@@ -1,8 +1,4 @@
-
-= Installation summary = 
-
-
-
 = Details =
-  * install xsb and add the path in prolog.sh
+  * Check out all the code from code.google
+  * install xsb. Move the XSB folder inside www.
   * Create a r+w all log.txt in the folder log.
