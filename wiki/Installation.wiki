@@ -1,8 +1,6 @@
-#summary One-sentence summary of this page.
 
 = Installation summary = 
 
-Add your content here.
 
 
 = Details =
