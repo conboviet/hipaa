@@ -1,4 +1,15 @@
-= Details =
-  * Make dir HIPAA. Check out all the code from code.google into this folder
-  * install xsb. Move the XSB folder inside HIPAA.
-  * Create a log.txt with permissions r+w all in the folder log.
+= Installation Instructions =
+
+How to install the HIPAA Compliance Checker.
+
+== Requisites ==
+
+  * A Prolog interpretor.  We've been using [http://xsb.sourceforge.net/ XSB].
+  * A PHP web server.
+
+== Details ==
+
+  * Create a directory on your web server for the HIPAA Compliance Checker.
+  * Install XSB into a subdirectory called "XSB".
+  * svn checkout the HIPAA Compliance Checker to the directory.
+  * Ensure that your web server can write to log/log.txt
