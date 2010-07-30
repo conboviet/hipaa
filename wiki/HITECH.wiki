@@ -18,7 +18,7 @@ Sec. 13405. Restrictions on Certain Disclosures and Sales of Health Information;
 
 (1) In General.—
 
-(A) In General.— a covered entity shall be treated as being in compliance with HIPAA’s use, disclosure, or request of protected health information only if the covered entity limits such protected health information to the limited data set (164.514(e)(2)) or is the minimum necessary* to accomplish the intended purpose.
+(A) In General.— a covered entity shall be treated as being in compliance with HIPAA’s use, disclosure, or request of protected health information only if the covered entity limits such protected health information to the limited data set (164.514(e)(2)) or is the minimum necessary (note1) to accomplish the intended purpose.
 
 (B) Guidance.—Within 18 months, the Secretary should decide what is ‘‘minimum necessary’’, taking into guidance under section 13424(c) and the information necessary to improve 
 patient outcomes and to detect, prevent, and manage chronic disease.
@@ -127,7 +127,7 @@ A business associate included on a list under subparagraph (B) shall provide an 
 
 
 
-*  (b)(1) Minimum necessary applies.  When using or 
+note1:  (b)(1) Minimum necessary applies.  When using or 
 disclosing protected health information or when requesting protected health information 
 from another covered entity, a covered entity or business associate must make reasonable 
 efforts to limit protected health information to the minimum necessary to accomplish the 
